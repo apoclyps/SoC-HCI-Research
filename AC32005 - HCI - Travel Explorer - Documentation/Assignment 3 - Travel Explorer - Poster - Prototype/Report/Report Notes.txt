@@ -1,0 +1,71 @@
+Introduction
+	The prototype had two majour purposes. The first was to identify
+
+	privacy concerns by making it accessible
+	adhering to HCI standards.
+
+Methods
+
+Survey
+
+Focus Group
+
+Paper Prototyping
+
+Procedure
+
+Fittzlaw
+
+Results
+
+	Survey - Reference
+	Differences between the two surveys should be noted
+
+	Hiding content and making a register page behind the login page proved to be useful
+
+Discussion
+	important findings - 
+
+Conclusions
+
+Privacy options that can be accessed with no to minimal css/js proved to be useful in supporting multiple browsers and slow connections.
+
+The use of single button privacy settings will not eradicate the time needed to configure privacy settings but makes minor changes simple.
+
+Alternating Buttons are effective in decreasing the complexity of privacy settings, however deeper compexity is needed for larger groups to initially configure a group.
+
+Provided some confirmation for our earlier work that suggested a default privacy setting option should be established. Further work is required before the optimal solution can be found.
+
+
+
+
+
+
+Format of Link stuff
+
+
+Categories: K. Computing Milieux 
+
+K.4 COMPUTERS AND SOCIETY 
+
+K.4.1 Public Policy Issues
+
+Subject descriptor: Privacy
+
+K.4.2 Social Issues 
+
+Subject descriptor: Abuse and crime involving computers
+
+H5.m. Information interfaces and presentation (e.g., HCI): Miscellaneous.
+
+
+H.5 INFORMATION INTERFACES AND PRESENTATION (e.g., HCI) (I.7) 
+
+
+K.4.1 Public Policy Issues : Privacy
+K.4.2 Social Issues : Abuse and crime involving computers
+
+
+
+
+
